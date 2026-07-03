@@ -4,7 +4,7 @@ Student Grade Average System (C++)
 This is a beginner C++ mini project that allows users to input 5 grades and automatically calculates important results.
 
 
-Features
+FEATURES:
 
 Input 5 student grades
 
@@ -18,7 +18,7 @@ Find lowest grade
 
 Determine PASS or FAIL status
 
-Concepts Practiced
+CONCEPTS PRACTICED:
 
 This project was created to practice and improve understanding of:
 
@@ -37,18 +37,18 @@ Basic Problem Solving
 Average and comparison calculations
 
 
-Technologies Used
+TECHNOLOGIES USED:
 
 C++
 
 Visual Studio Code
 
 
-Purpose
+PURPOSE:
 
 This mini project is part of my BSIT summer learning journey to strengthen my programming fundamentals before entering 2nd year college.
 
-Sample Output
+SAMPLE OUTPUT:
 
 Enter grade 1: 90
 
